@@ -12,6 +12,7 @@ Stroke is a leading cause of death and disability worldwide. Understanding the f
 Stroke is a medical emergency that occurs when the blood supply to part of the brain is interrupted or reduced. Early identification of risk factors and timely intervention are essential for stroke prevention. This project leverages data analysis techniques to uncover patterns and correlations within the dataset that can inform prevention strategies.
 
 ## Project Output
+
 The output of this project includes:
 A cleaned and processed dataset ready for analysis.
 Visualizations depicting the relationships between various factors and stroke occurrence.
@@ -38,6 +39,7 @@ Notebook Environment: Jupyter Notebook
 ## Files
 
 1. Stroke Prevention Analysis.ipynb
+
 This notebook includes:
 Dataset Information: Detailed description of the dataset used.
 Data Cleaning: Processes for handling missing values and ensuring data quality.
@@ -45,4 +47,5 @@ Data Visualization: Visual representations of the data to identify patterns and 
 Statistical Analysis: Descriptive and inferential statistical analysis of the data.
 
 2. healthcare-dataset-stroke-data.csv
+
 This CSV file is the main dataset used in the project, containing various features related to stroke prediction.
