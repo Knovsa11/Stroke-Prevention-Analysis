@@ -30,7 +30,7 @@ The project is developed using the following technologies:
 
 Programming Language: Python
 
-Data Analysis and Manipulation: Pandas, NumPy
+Data Analysis and Manipulation: Pandas
 
 Data Visualization: Matplotlib, Seaborn
 
